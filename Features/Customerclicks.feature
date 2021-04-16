@@ -2,6 +2,6 @@
 	Simple calculator for adding two numbers
 
 @mytag
-Scenario: clicking
+Scenario: click now with modify
 	Given i navigate to amazon
 	And i click the button
